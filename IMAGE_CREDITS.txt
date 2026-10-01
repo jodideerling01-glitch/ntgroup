@@ -1,0 +1,50 @@
+NT GROUP WEBSITE - PHOTOGRAPHY CREDITS
+======================================
+
+The photographs below were downloaded from Wikimedia Commons and are reusable under the listed Creative Commons licences. The website uses web-sized copies and crops them responsively through CSS.
+
+1) PALABORA OPEN PIT MINE
+File: Palabora-Open-Pit-Mine-2019.jpg
+Author: Bjørn Christian Tørrissen
+Location: South Africa
+Licence: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Source page:
+https://commons.wikimedia.org/wiki/File:Palabora-Open-Pit-Mine-2019.jpg
+Licence:
+https://creativecommons.org/licenses/by-sa/4.0/
+Local file: assets/images/palabora-open-pit.jpg
+
+Attribution suggestion:
+"Palabora Open Pit Mine" by Bjørn Christian Tørrissen, CC BY-SA 4.0, via Wikimedia Commons. Web-sized and displayed with responsive cropping.
+
+2) KUMBA IRON ORE RETIRED HAUL TRUCK
+File: Kumba Iron Ore Retired Haul Truck, Johannesburg.jpg
+Author: Ossewa
+Location: Johannesburg, South Africa
+Licence: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Source page:
+https://commons.wikimedia.org/wiki/File:Kumba_Iron_Ore_Retired_Haul_Truck,_Johannesburg.jpg
+Licence:
+https://creativecommons.org/licenses/by-sa/4.0/
+Local file: assets/images/kumba-haul-truck.jpg
+
+Attribution suggestion:
+"Kumba Iron Ore Retired Haul Truck, Johannesburg" by Ossewa, CC BY-SA 4.0, via Wikimedia Commons. Web-sized and displayed with responsive cropping.
+
+3) THE BIG HOLE / KIMBERLEY MINE
+File: Open pit mine.jpg
+Author: Irene2005
+Location: Kimberley, South Africa
+Licence: Creative Commons Attribution 2.0 Generic (CC BY 2.0)
+Source page:
+https://commons.wikimedia.org/wiki/File:Open_pit_mine.jpg
+Licence:
+https://creativecommons.org/licenses/by/2.0/
+Local file: assets/images/kimberley-big-hole.jpg
+
+Attribution suggestion:
+"Open-pit diamond mine, Kimberley, South Africa" by Irene2005, CC BY 2.0, via Wikimedia Commons. Web-sized and displayed with responsive cropping.
+
+LICENCE NOTE
+------------
+Creative Commons Attribution licences require suitable credit. CC BY-SA also requires adaptations to be shared under the same or a compatible licence. Review the linked licence terms before publishing or substantially modifying the photographs.
